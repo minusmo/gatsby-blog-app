@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-hello-friend",
+  "name": "blog with hello-starter",
   "description": "A simple starter for Gatsby. That's it.",
-  "version": "0.2.0",
-  "author": "Radek Kozieł <radoslaw.koziel@gmail.com>",
+  "version": "0.2.1",
+  "author": "HoJoon Eum thanks to Radek Kozieł <radoslaw.koziel@gmail.com>",
   "keywords": [
     "gatsby",
     "minimal",

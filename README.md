@@ -1,4 +1,6 @@
- # Hello Friend
+# Minusmo's blog app with gatsby-starter-hello
+
+# Hello Friend
 
 ![Hello Friend](https://github.com/panr/hugo-theme-hello-friend/blob/master/images/screenshot.png?raw=true)
 
