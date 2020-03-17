@@ -3,7 +3,7 @@ title: "musicapp 개발일기 3"
 date: "2020-03-17"
 author: "HoJoon Eum"
 path: "/musicapp3"
-coverImage: "../images/turtle.jpg"
+coverImage: "../../images/turtle.jpg"
 tags: ["Next.js", "React", "Web", "CSS", "HoJoon Eum"]
 ---
 
