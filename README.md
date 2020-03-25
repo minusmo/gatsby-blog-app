@@ -47,7 +47,7 @@ title: String,
 description: String,
 copyrights: String,
 author: String,
-logo: Shape { // you can place your own logo
+logo: Shape { // you can plac e your own logo
   src: String, // default dir is `/static/`
   alt: String,
 },
