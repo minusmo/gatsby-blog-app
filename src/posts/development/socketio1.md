@@ -39,7 +39,7 @@ const server = require("http").createServer(express);
 const io = require("socket.io")(server);
 ```
 
-위와 같이 인스턴스를 구성하게 되는데, 3번째 줄은 **_socket.io_** 를 http 서버에 binding 하기 위해 **_io()_** 함수의 parameter로 http서버 인스턴스를 넘겨주게된다. 이를 통해 http 통신으로 들어온 소켓 연결 요청을 서버의 **_socket.io_** 인스턴스가 받게 된다.
+위와 같이 인스턴스를 구성하게 되는데, 3번째 줄은 **_socket.io_** 를 http 서버에 binding 하기 위해 **_io()_** 함수의 parameter로 http서버 인스턴스를 넘겨주게된다. 이를 통해 같은 포트로의 http 통신으로 들어온 소켓 연결 요청을 서버의 **_socket.io_** 인스턴스가 받게 된다.
 
 ---
 
